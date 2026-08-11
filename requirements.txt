@@ -1,0 +1,8 @@
+fastapi~=0.139.0
+pydantic-settings
+uvicorn[standard]
+sqlalchemy
+asyncpg
+python-jose[cryptography]
+passlib
+datetime
